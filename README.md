@@ -1,24 +1,14 @@
-# homework-challenges-v2
+## aCommerce - Homework Challenge (Vue CLI Project)
 
-## Project setup
-```
+### Installation
+
+``` bash
+# clone the project
+git clone https://github.com/sarapmax/acommerce-homework-challenge.git
+
+# install npm depencencies
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+# serve with hot reload at localhost:8080
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
