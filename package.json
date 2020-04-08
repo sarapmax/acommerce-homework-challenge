@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "moment": "^2.24.0",
+    "tailwindcss": "^1.2.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
@@ -33,6 +35,11 @@
       "parser": "babel-eslint"
     },
     "rules": {}
+  },
+  "postcss": {
+    "plugins": {
+      "tailwindcss": "./tailwind.config.js"
+    }
   },
   "browserslist": [
     "> 1%",
